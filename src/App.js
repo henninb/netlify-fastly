@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          React Netlify Cloudfront
+          React Netlify Fastly
         </p>
       </header>
     </div>
